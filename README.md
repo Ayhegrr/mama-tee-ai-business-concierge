@@ -79,3 +79,22 @@ Completed – TS Academy Capstone Project.
 This project represents my practical application of AI and workflow automation to a real-world business use case.
 
 More projects and technical improvements will be added as I continue developing my skills.
+
+---
+
+## 📸 Project Screenshots
+
+### Screenshot 1
+![Project Screenshot](Screenshot_20260822-015600.jpg)
+
+### Screenshot 2
+![Project Screenshot](Screenshot_20260823-165648.jpg)
+
+### Screenshot 3
+![Project Screenshot](Screenshot_20260823-184634.jpg)
+
+### Screenshot 4
+![Project Screenshot](Screenshot_20260823-193553.jpg)
+
+### Screenshot 5
+![Project Screenshot](Screenshot_20261030-102629.jpg)
