@@ -19,11 +19,10 @@ This project was developed as my TS Academy AI Automation Capstone Project.
 
 🛠️ Technologies Used
 
-Technology| Purpose
-Vapi AI| AI voice assistant
-n8n| Workflow automation and orchestration
-Airtable| Customer request storage
-Telegram| Real-time notifications
+- Vapi AI: AI voice assistant.
+- n8n: Workflow automation and orchestration.
+- Google sheets: Customer request storage and management.
+- Telegram: Real-time notifications.
 
 ⚙️ System Architecture
 
