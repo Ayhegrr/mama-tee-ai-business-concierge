@@ -26,7 +26,7 @@ This project was developed as my TS Academy AI Automation Capstone Project.
 
 ⚙️ System Architecture
 
-Customer Interaction → Vapi AI Voice Assistant → n8n Workflow → Airtable → Telegram Notification
+Customer Interaction → Vapi AI Voice Assistant → n8n Workflow → Google sheets → Telegram Notification
 
 🔄 Core Workflow Features
 
